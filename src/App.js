@@ -54,7 +54,7 @@ function App() {
                                         placeholder='Password'
                                     />
                                 </div>
-                                <button type="submit" className="c-btn">Submit</button>
+                                <button type="submit" className="c-btn">Login</button>
                             </form>
                         </div>
                     </div>
